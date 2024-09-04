@@ -5,4 +5,4 @@
  * @Description: some description
  * @FilePath: /convert-srt-to-txt/sotired.js
  */
-这都什么破烂，练不动
+测试提交上市
